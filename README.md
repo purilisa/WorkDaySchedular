@@ -16,12 +16,21 @@ To Use:
 Enter your event on the time row, and click save.
 the color on the row will dynamically change to past/present/future color based on timeframe condition for the same.
 
+Technologies used:
+-HTML 
+-Bootstrap CSS
+-Javascript
+-Moment.js to format time
+-Local Storage on the browser to save and display scheduled events.
+
+
 
 Link to the application:
+https://purilisa.github.io/WorkDaySchedular/
 
 
 Link to the Repository:
-
+https://github.com/purilisa/WorkDaySchedular
 
 Screenshots:
 
