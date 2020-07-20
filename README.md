@@ -17,16 +17,14 @@ Enter your event on the time row, and click save.
 the color on the row will dynamically change to past/present/future color based on timeframe condition for the same.
 
 
-Link to the quiz:
+Link to the application:
 
 
 Link to the Repository:
 
 
-Images:
-![](Images/AlertQuizComplete.jpg)
-
 Screenshots:
+
 WorkDaySchedular full image:
 ![Alt text](/Assets/WorkDaySch_Main.png?raw=true "WorkDaySchedulerImage")
 
