@@ -17,7 +17,7 @@ $(document).ready(function() {
     creatTimeBlockRows();
 
     function creatTimeBlockRows() {
-        for (var i = 18; i < 24; i++) {
+        for (var i = 8; i < 18; i++) {
             var timeBlockRow = $("<div>");
             timeBlockRow.attr("class", "row time-block");
             rowContainer.append(timeBlockRow);
