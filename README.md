@@ -30,7 +30,7 @@ https://purilisa.github.io/WorkDaySchedular/
 
 
 Link to the Repository:
-https://github.com/purilisa/WorkDaySchedular
+https://purilisa.github.io/WorkDaySchedular/
 
 Screenshots:
 
