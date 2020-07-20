@@ -26,7 +26,7 @@ Link to the Repository:
 Screenshots:
 
 WorkDaySchedular full image:
-![Alt text](/Assets/WorkDaySch_Main.png?raw=true "WorkDaySchedulerImage")
+![Alt text](/Assets/WorkDaySch.png?raw=true "WorkDaySchedulerImage")
 
 
 Past Row:
