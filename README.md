@@ -28,17 +28,17 @@ Images:
 
 Screenshots:
 WorkDaySchedular full image:
-![Alt text](../Assets/WorkDaySch_Main.png?raw=true "WorkDaySchedulerImage")
+![Alt text](/Assets/WorkDaySch_Main.png?raw=true "WorkDaySchedulerImage")
 
 
 Past Row:
-![Alt text](../Assets/PastEvent.png?raw=true "WorkDaySchedulerImage")
+![Alt text](/Assets/PastEvent.png?raw=true "PastEventImage")
 
 Present Row:
-![Alt text](../Assets/PresentEvent.png?raw=true "WorkDaySchedulerImage")
+![Alt text](/Assets/PresentEvent.png?raw=true "PresentEventImage")
 
 Future Row:
-![Alt text](../Assets/FutureEvent.png?raw=true "WorkDaySchedulerImage")
+![Alt text](/Assets/FutureEvent.png?raw=true "FutureEventImage")
 
 
 Developed:
